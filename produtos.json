@@ -1,0 +1,16 @@
+{
+    "nome": "S25",
+    "descricao": "O Samsung Galaxy S25 é um smartphone topo de linha com design moderno, alto desempenho e recursos avançados de câmera e conectividade",
+    "preco": "versão 256: R$6.999",
+    "img": "<img src='img/08024e26907f9def97bcf52e9397309c.webp' width= '500px'>",
+
+    "nome2": "Iphone 16",
+    "descricao2": "O iPhone 16 traz chip A18 com inteligência artificial, câmera de 48 MP com zoom 2x, novos botões (Action e Camera Control), tela OLED com Dynamic Island, Wi-Fi 7 e bateria melhorada. Lançado em setembro de 2024.",
+    "preco2": "versão 256: R$8.599",
+    "img2": "<img src='img/D_NQ_NP_894637-MLA79138856715_092024-O.webp' width= '500px'>",
+    
+    "nome3": "Xiaomi 15",
+    "descricao3": "O Xiaomi 15 é um smartphone premium lançado em 2025, com processador Snapdragon 8 Elite, tela OLED de 6,36”, câmera tripla de 50 MP com Leica, bateria de 5.200 mAh com carregamento rápido, resistência IP68 e leitor de digitais na tela.",
+    "preco3": "versão 256: R$8.525",
+    "img3": "<img src='img/Xiaomi_15_Branco.webp' width= '500px'>"
+}
